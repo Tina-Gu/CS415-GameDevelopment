@@ -1,2 +1,5 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+*.InfiniteMatrixComplete filter=lfs diff=lfs merge=lfs -text
+5.1 filter=lfs diff=lfs merge=lfs -text
+*.InfiniteMatrixComplete5.1 filter=lfs diff=lfs merge=lfs -text
